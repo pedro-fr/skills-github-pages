@@ -2,8 +2,4 @@ theme: minima
 title: My first website
 description: Website created for the GitHub Skills course
 # Author information
-author:
-  name: Pedro Ferreiro
-  email: pedro.ferreirorega@gmail.com
-social:
-  github: pedro-fr
+author: Pedro Ferreiro
